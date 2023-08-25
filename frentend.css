@@ -1,0 +1,55 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:  hsl(212, 45%, 89%); 
+
+
+   
+}
+
+.container{
+    max-width: 250px;
+    width: 250px;
+    height: 400px;
+    margin: 140px auto;
+    
+    padding: 10px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: hsl(0, 0%, 100%);
+
+
+    
+    
+    
+     
+}
+.container1 img{
+    height:220px; 
+    width:230px ;
+     margin-left: 10px;
+     margin-top: 5px;
+    border-radius: 10px 10px 10px 10px; 
+
+
+     
+}
+.container2{
+   
+    padding: 18px;
+    
+
+    
+    
+}
+
+h3{
+    font-family: 'Outfit', sans-serif;
+    
+    
+    color:  hsl(218, 44%, 22%);
+}
+p{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
